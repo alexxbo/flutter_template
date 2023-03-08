@@ -1,0 +1,21 @@
+name: app_logging
+description: This is a logger with a small, extensible API.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  logging: ^1.1.1
+  http_interceptor: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+# The following section is specific to Flutter packages.
+flutter:
