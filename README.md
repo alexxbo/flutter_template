@@ -1,0 +1,3 @@
+# ftemplate
+
+Flutter project template
